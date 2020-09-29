@@ -1,7 +1,7 @@
 # Code Templates for Google Cloud Code
 
 ## What is Google Cloud Code
-
+hi
 Building highly scalable applications with Kubernetes can be hard.
 Google Cloud Code extends your IDE so that you can continuously deploy to a cluster, edit and debug just like you were working with local code.
 Spend less time learning about configuration and management of your app - and spend more time to focus on writing and evolving your code.
